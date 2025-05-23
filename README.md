@@ -3,8 +3,8 @@ This implementation uses Scriptable Objects to provide metadata to animations, a
 -The buttons can be filtered according to a category set by a scriptable object
 
 For Style
--Tried to match style reference with colors and buttons
--used Adobe Color wheel to find colors to indicate button functionality (like clicking, hovering, or selecting)
+#Tried to match style reference with colors and buttons
+#used Adobe Color wheel to find colors to indicate button functionality (like clicking, hovering, or selecting)
 -You can click and drag / swipe and drag screen to rotate the character
 -You can play/pause/restart an animation
 

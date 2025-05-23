@@ -1,5 +1,5 @@
 # JARS-Ai-TakeHome
-This implementation uses Scriptable Objects to provide metadata to animations, and create buttons that can play character animations.
+<b>This implementation uses Scriptable Objects to provide metadata to animations, and create buttons that can play character animations.</b>  
 -The buttons can be filtered according to a category set by a scriptable object
 
 For Style

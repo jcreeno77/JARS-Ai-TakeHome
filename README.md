@@ -12,7 +12,7 @@
 
 <b>With more time I would:</b>  
 -Cleanup UI more, add an embossed / depth window to display the character  
--Add UI the functionality to support 100's of more animations (scrollbar, more filtering options like search)  
+-Add UI functionality to support 100's of animations (such as a scrollbar or more filtering options like search)  
 -Would do some profiling and optimization for handling loading of animations  
 -Optimize UI Element scaling and sizing  
 -Order some things in scene a bit better  
